@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">سفیر دکور</string>
-    <!-- آدرس سایت رو اینجا عوض کن -->
-    <string name="site_url">https://safiredecor.ir</string>
-    <string name="offline">اینترنت وصل نیست. برای تلاش دوباره ضربه بزن</string>
+    <string name="site_url">https://safiredecor.ir/</string>
+    <string name="slogan">از ایده تا کلید، همراه مطمئن شما</string>
+    <string name="offline">اتصال به سایت برقرار نشد</string>
+    <string name="retry">تلاش دوباره</string>
 </resources>

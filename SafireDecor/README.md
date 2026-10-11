@@ -1,11 +1,5 @@
-# Safire Decor – Android app (WebView)
+# سفیر دکور Android app
+نسخهٔ اصلاح‌شده برای safiredecor.ir: WebView با حالت موبایل، JavaScript/Storage کامل، مدیریت لینک‌ها، صفحهٔ خطای اینترنت و لودینگ برنددار.
 
-آدرس سایت: app/src/main/res/values/strings.xml → site_url
-
-## ساخت APK بدون نصب چیزی (GitHub)
-1. یه ریپو جدید تو GitHub بساز و همه فایل‌ها رو آپلود کن.
-2. برو تب Actions → «Build APK» خودکار اجرا می‌شه (چند دقیقه).
-3. از پایین صفحه‌ی اجرا، SafireDecor-apk رو دانلود کن و روی گوشی نصب کن.
-
-## یا با Android Studio
-پوشه رو Open کن → Build → Build APK(s).
+## ساخت APK
+پوشهٔ پروژه را در GitHub داخل SafireDecor جایگزین کن، سپس Actions را اجرا کن. فایل خروجی `SafireDecor-apk` است.
