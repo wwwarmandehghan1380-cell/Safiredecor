@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources><color name="bg">#16305C</color></resources>
+<resources>
+    <color name="bg">#16305C</color>
+    <color name="splash_dark">#04100A</color>
+</resources>
